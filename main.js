@@ -17,7 +17,7 @@ async function getData() {
     console.error('Fetch failed!', error)
   }
 }
-
+console.log(object);
 increment()
 getData()
 
