@@ -18,6 +18,7 @@ async function getData() {
   }
 }
 console.log(object);
+console.log(object);
 increment()
 getData()
 
